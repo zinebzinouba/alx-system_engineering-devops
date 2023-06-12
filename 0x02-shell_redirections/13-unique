@@ -1,2 +1,2 @@
-#!/bin/etc
+#!/bin/bash
 sort | uniq -u
